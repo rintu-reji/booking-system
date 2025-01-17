@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+#appointment-booking {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  margin: 5px 0;
+}
+input,
+select {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #218838;
+}
