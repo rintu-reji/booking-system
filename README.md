@@ -17,6 +17,9 @@ A full-stack appointment booking system with a backend built using Node.js and S
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/appointment-booking-system.git
-
+   git clone https://github.com/rintu-reji/booking-system.git
 2. Install dependencies:
+   npm install
+3. Run the backend:
+   npm start
+4. Open the frontend (index.html) in your browser.
